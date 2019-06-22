@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/packages
+/src/CMS.AdminApp/bin
+/src/CMS.AdminApp/obj
+/src/CMS.ClientApp/bin
+/src/CMS.ClientApp/obj
+/src/CMSRepository.Contract/bin
+/src/CMSRepository.Contract/obj
+/src/XMLBasedCMSRepository/bin
+/src/XMLBasedCMSRepository/obj
